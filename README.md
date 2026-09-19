@@ -28,7 +28,7 @@ The project is funded by the **European Union – NextGenerationEU**.
 |---|---|
 | Project head | Prof. Marijana Tomić |
 | Metadata creators | Prof. Marijana Tomić, dr. Laura Grzunov, Marta Ivanović |
-| Jupyter notebook | Prof. Marijana Tomić |
+| Jupyter notebook | Prof. Marijana Tomić, Prof. Željka Tomasović |
 | Code assistance | [Claude](https://claude.ai) (Anthropic) |
 
 ---
