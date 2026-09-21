@@ -95,7 +95,7 @@ The **code** in this notebook is released under the [MIT Licence](https://openso
 The **data visualisations** are released under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may view and cite them, but may not share, adapt, or use them for commercial purposes.
 
 Suggested citation:
-> Tomić, Marijana. *Glagoljski rukopisi Zadarske nadbiskupije – vizualizacije metapodataka*. Centre for Research in Glagolitism, University of Zadar, 2026. [https://glagolab.unizd.hr](https://glagolab.unizd.hr)
+> Tomić, Marijana; Tomasovic, Željka. *Glagoljski rukopisi Zadarske nadbiskupije – vizualizacije metapodataka*. Centre for Research in Glagolitism, University of Zadar, 2026. [https://glagolab.unizd.hr](https://glagolab.unizd.hr)
 
 ---
 
