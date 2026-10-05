@@ -66,7 +66,8 @@ The first cell automatically installs any missing packages. All data is embedded
 ### Option B — Local Jupyter / VS Code
 
 ```bash
-pip install pandas numpy matplotlib seaborn folium wordcloud geopy altair
+pip install pandas numpy matplotlib seaborn folium wordcloud geopy altair jupyter notebook
+
 jupyter notebook Glagoljicna_bastina_vizualizacije.ipynb
 ```
 
