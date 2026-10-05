@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Glagoljski rukopisi Zadarske nadbiskupije – vizualizacije metapodataka"
+type: software
+authors:
+  - family-names: "Tomić"
+    given-names: "Marijana"
+    affiliation: "University of Zadar"
+  - family-names: "Tomasović"
+    given-names: "Željka"
+    affiliation: "University of Zadar"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+repository-code: "https://github.com/marijanatomic-rgb/GlagoLab_Glagolitic-manuscripts-of-Zadar-Archdiocese"
+url: "https://glagolab.unizd.hr"
+abstract: >-
+  A self-contained Jupyter notebook for visualising metadata describing
+  Glagolitic manuscripts from the Zadar Archdiocese. The metadata originate
+  from the GlagoLab catalogue of the Centre for Research in Glagolitism,
+  University of Zadar. The notebook generates static and interactive
+  visualisations and can be run locally or in Google Colab.
+keywords:
+  - "Glagolitic manuscripts"
+  - "digital humanities"
+  - "metadata visualisation"
+  - "cultural heritage"
+  - "Jupyter notebook"
+  - "GlagoLab"
