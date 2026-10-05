@@ -1,4 +1,10 @@
-MIT License
+# Licensing information
+
+This repository contains software code, research data, and generated visualisations. Different licensing and rights conditions apply to these components as described below.
+
+## Software code — MIT License
+
+The software code, including the Jupyter notebook and associated scripts, is licensed under the MIT License.
 
 Copyright (c) 2026 Marijana Tomić and Željka Tomasović
 
@@ -19,3 +25,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Generated visualisations — CC BY-NC-ND 4.0
+
+Unless otherwise stated, the visualisations contained in the `outputs/` directory are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence (CC BY-NC-ND 4.0).
+The visualisations may be shared in unadapted form for non-commercial purposes, provided appropriate attribution is given. Adapted versions may not be distributed.
+
+Licence information:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+## Metadata dataset
+
+The descriptive metadata contained in `data/glagolab_zadar_archdiocese_metadata.csv` originate from the GlagoLab catalogue of the Centre for Research in Glagolitism, University of Zadar:
+https://glagolab.unizd.hr
+No additional licence for redistribution or reuse of these metadata is asserted through this repository unless explicitly stated in the corresponding dataset documentation or Zenodo record.
+
+See `data/README.md` for information about the source, provenance, and applicable rights and reuse conditions.
